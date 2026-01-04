@@ -1,0 +1,10 @@
+name: macroeconomic-dashboard
+title:
+username: ememakpan
+account: ememakpan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16369830
+bundleId: 11396872
+url: https://ememakpan.shinyapps.io/macroeconomic-dashboard/
+version: 1
