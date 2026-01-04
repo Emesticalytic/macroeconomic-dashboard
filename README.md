@@ -237,14 +237,10 @@ Exports vs. imports comparison highlighting trade competitiveness and external s
 
 ## 👤 Author
 
-**Your Name**  
-Data Scientist | Economist | R Developer
+**Emem Akpan**  
+Economist|Data Scientist | Business Analyst | (R
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
----
 
 ## 📄 License
 
